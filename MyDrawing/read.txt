@@ -1,0 +1,26 @@
+Shape Line
+ outerloop 
+ Color 16711680
+ Vertex1 0 150
+ Vertex2 300 300
+ endloop
+Shape Line
+ outerloop 
+ Color 16711680
+ Vertex1 300 300
+ Vertex2 600 150
+ endloop
+Shape Triangle
+ outerloop 
+ Color 16711680
+ Vertex1 100 100
+ Vertex2 300 300
+ Vertex3 500 100
+ endloop
+Shape Triangle
+ outerloop 
+ Color 16711680
+ Vertex1 100 300
+ Vertex2 500 300
+ Vertex3 300 100
+ endloop
